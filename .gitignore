@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SecProj
+#  Theres already an entry for env files so we just have to add an entry for encryption keys.
+#  We might also want to add an entry for bak files which may be used in dev.
+enc.key
+*.bak
